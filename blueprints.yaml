@@ -1,0 +1,9 @@
+name: Download Manager
+version: 0.1-alpha
+icon: download
+author:
+    name: mooxmirror
+    email: lennart@mooxmirror.io
+    url: http://mooxmirror.io
+keywords: downloads, login, security
+license: MIT
